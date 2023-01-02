@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1.132 191.558 L 497.081 191.558 L 497.081 324.803 L 1.132 324.803 L 1.132 191.558 Z" fill="#3C205B" style=""/>
+  <circle cx="46.946" cy="279.977" r="62.231" fill="white" fill-opacity="0.04" style=""/>
+  <circle cx="255.656" cy="369.909" r="80.896" fill="white" fill-opacity="0.04" style="" transform="matrix(1.202763, 0, 0, 1, -35.434864, 0)"/>
+  <circle cx="470.588" cy="212.669" r="85.421" fill="white" fill-opacity="0.04" style=""/>
+</svg>

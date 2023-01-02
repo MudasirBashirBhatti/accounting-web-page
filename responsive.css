@@ -1,0 +1,108 @@
+@media screen and (max-width:1000px) {
+    .smallTxt {
+        font-size: 2vw;
+    }
+    .verysmall {
+        letter-spacing: 1.2px;
+        font-size: 1.5vw;
+        padding: 0 10%;
+        padding-bottom: 3vw;
+        line-height: 2.5vw;
+    }
+    .largeTxt {
+        font-size: 4.3vw;
+        font-weight: 900;
+        padding: 1vw;
+    }
+    #insideImg{
+        width: 70%;
+    }
+    #nav ul {
+        padding: 0 1vw;
+        padding-top: 2vw;
+    }
+    .other_nav_links {
+        font-size: 1.5vw;
+    }
+    #TaoText {
+        font-size: 2.2vw;
+    }
+    #largeText {
+        font-size: 3.5vw;
+    }
+    #smalltext {
+        font-size: 1.3vw;
+        line-height: 2.5vw;
+    }
+    #topText {
+        width: 60%;
+    }
+    .services_small_Text {
+        font-size: 1.4vw;
+    }
+    #bottom_cards {
+        width: 90%;
+    }
+    .servises_card_main_heading {
+        font-size: 1.5vw;
+    }
+    .servises_card_small_text {
+        font-size: 1.4vw;
+        line-height: 2vw;
+    }
+    #topText {
+        padding: 1vw 0;
+    }
+    #bottom_cards a {
+        font-size: 1.4vw;
+    }
+    #foundOnline_container {
+        padding: 0 3vw;
+    }
+    #foundOnline_info {
+    font-size: 1.4vw;
+    padding-right: 1vw;
+    line-height: 1.8vw;
+    }
+    #foundOnline_listItems {
+        font-size: 1.3vw;
+        line-height: 2vw;
+    }
+    #foundOnline_head {
+        font-size: 3.4vw;
+    }
+    #testimonialHeading {
+        font-size: 3.5vw;
+    }
+    #testimonial_contents_para {
+        line-height: 2.5vw;
+        font-size: 1.7vw;
+    }
+    #testimonial {
+        display: flex;
+        justify-content: center;
+        align-items: bottom;
+        padding: 0 5vw;
+        align-items: last baseline;
+    }
+    #girl {
+        width: 50%;
+    }
+    #designer_name {
+        font-size: 2vw;
+    }
+    #footerElements {
+        width: 95%;
+    }
+    .frContent {
+        font-size: 1.4vw;
+        line-height: 2vw;
+    }
+    .columns ul li a {
+        font-size: 1.5vw;
+    }
+}
+
+@media screen (max-width:640px) {
+    
+}
